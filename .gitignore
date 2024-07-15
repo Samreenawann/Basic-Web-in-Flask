@@ -1,0 +1,20 @@
+# Python bytecode files
+*.pyc
+__pycache__/
+
+# Virtual environment
+env/
+
+# Flask instance folder
+instance/
+
+# Environment variables file
+.env
+
+# IDE/editor configurations
+.vscode/
+.idea/
+
+# macOS specific files
+.DS_Store
+
